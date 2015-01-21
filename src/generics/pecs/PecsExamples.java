@@ -22,6 +22,7 @@ public class PecsExamples {
 			fruit.print();
 		}
 
+		//CS
 		List<? super Apple> appleBasket = apples;
 		appleBasket.add(new SpecificTypeOfApple());
     }
