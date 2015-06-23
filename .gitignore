@@ -1,5 +1,7 @@
 ## Directory-based project format
 .idea
+META-INF
+out
 # and these sensitive or high-churn files:
 # .idea/dataSources.ids
 # .idea/dataSources.xml
